@@ -1,7 +1,7 @@
 # Profile-Card
 
 
-![Preview do Card](screenshot.png)
+![Preview do Card](assets/profile.jpeg)
 
 ## Descrição
 
@@ -16,7 +16,6 @@ Este é um card desenvolvido utilizando HTML, CSS e Bootstrap, que apresenta uma
 ## Como Utilizar
 
 1. - Clone este repositório:
-
 ```js
     git clone https://github.com/Romariolima99/Profile-Card
  ```
