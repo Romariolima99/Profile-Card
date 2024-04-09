@@ -1,7 +1,7 @@
 # Profile-Card
 
 
-![Preview do Card](assets/profile.jpeg)
+<!-- ![Preview do Card](assets/profile.jpeg) -->
 
 ## Descrição
 
