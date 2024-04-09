@@ -19,8 +19,8 @@ Este é um card desenvolvido utilizando HTML, CSS e Bootstrap, que apresenta uma
 ```js
     git clone https://github.com/Romariolima99/Profile-Card
  ```
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Você verá o card de habilidades front-end com botões para acessar minhas redes sociais.
+2. - Abra o arquivo `index.html` em seu navegador web.
+3. - Você verá o card de habilidades front-end com botões para acessar minhas redes sociais.
 
 
 ## Preview
