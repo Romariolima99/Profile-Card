@@ -4,6 +4,7 @@
 
 body{
     background:#eee;
+    
 }
 
 .card{
@@ -12,7 +13,8 @@ body{
     overflow:hidden;
     border-radius:8px;
     cursor:pointer;
-  
+    background-image: radial-gradient(circle at 50% -20.71%, #ffffff 0, #eae5f8 25%, #c9c8cd 50%, #aaaba3 75%, #8f917c 100%);
+    
 }
 
 .card:before{
@@ -26,7 +28,8 @@ body{
     background-color:#9CAEEB;
     transform:scaleY(1);
     transition:all 0.5s;
-    transform-origin: bottom
+    transform-origin: bottom;
+    filter: blur(1px);
 }
 
 .card:after{
