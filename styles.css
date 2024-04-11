@@ -110,7 +110,7 @@
 .context {
     width: 100%;
     position: absolute;
-    height:100%;
+    top: 100vh;
 }
 
 .context h1 {
