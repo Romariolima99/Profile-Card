@@ -101,16 +101,16 @@
 /* Animações */
 
 
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
+}
 
 .context {
     width: 100%;
     position: absolute;
-    /* top: 100vh; */
+    height:100%;
 }
 
 .context h1 {
