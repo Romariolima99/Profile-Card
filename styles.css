@@ -15,7 +15,7 @@
     border-radius: 8px;
     cursor: pointer;
     background-image: radial-gradient(circle at 50% -20.71%, #ffffff 0, #eae5f8 25%, #c9c8cd 50%,);
-    /* filter: blur(0.5px); */
+    filter: blur(0.5px);
     z-index: 0;
 }
 
@@ -72,6 +72,8 @@
     border: 1px solid #436BF3 !important;
     color: #fff;
     height: 40px;
+    padding-bottom: 10px;
+    /* z-index: 1; */
 }
 
 .buttons button:nth-child(1):hover {
