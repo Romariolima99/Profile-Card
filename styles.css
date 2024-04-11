@@ -10,8 +10,8 @@
 .card {
    
     border: none;
-    /* position: relative; */
-    /* overflow: hidden; */
+    position: relative;
+    overflow: hidden;
     border-radius: 8px;
     cursor: pointer;
     background-image: radial-gradient(circle at 50% -20.71%, #ffffff 0, #eae5f8 25%, #c9c8cd 50%,);
@@ -58,7 +58,8 @@
     display: flex;
     list-style: none;
     justify-content: center;
-    padding: 0;
+    padding: 10px;
+   
 }
 
 .social-list li {
@@ -235,3 +236,4 @@
         border-radius: 50%;
     }
 }
+
