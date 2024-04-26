@@ -25,5 +25,5 @@ Este é um card desenvolvido utilizando HTML, CSS e Bootstrap, que apresenta uma
 
 ## Preview
 
-<img src="https://i.imgur.com/zlxJ0w5.png" alt="GIF" data-canonical-src="https://i.imgur.com/zlxJ0w5.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/HsbWh7Q.png" alt="GIF" data-canonical-src="https://i.imgur.com/HsbWh7Q.png" style="max-width: 50%;">
 
