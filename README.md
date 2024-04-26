@@ -22,6 +22,10 @@ Este é um card desenvolvido utilizando HTML, CSS e Bootstrap, que apresenta uma
 2. - Abra o arquivo `index.html` em seu navegador web.
 3. - Você verá o card de habilidades front-end com botões para acessar minhas redes sociais.
 
+## Exemplo
+
+Para ver o projeto em ação => <a href="https://profile-card-romario.vercel.app/" target="_blank">Veja o Projeto clicando aqui</a>.
+
 
 ## Preview
 
