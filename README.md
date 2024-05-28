@@ -3,7 +3,7 @@
 
 <!-- ![Preview do Card](assets/profile.jpeg) -->
 
-## Descrição teste
+## Descrição
 
 Este é um card desenvolvido utilizando HTML, CSS e Bootstrap, que apresenta uma breve descrição das minhas habilidades como desenvolvedor front-end, juntamente com links para as minhas redes sociais.
 
